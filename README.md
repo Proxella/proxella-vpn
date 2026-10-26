@@ -4,26 +4,26 @@
 Для **Windows 7 и Windows 8 / 8.1** есть отдельная сборка: она запускается там, где многие
 VPN-программы уже не поддерживаются.
 
-- 🌐 Сайт: **[proxella.pro](https://proxella.pro)**
-- ⬇️ Скачать: **[proxella.pro/zagruzka](https://proxella.pro/zagruzka)** или из
-  [последнего релиза](https://github.com/17x000011/proxella-vpn/releases/latest) этого репозитория
-- 🍏 Mac: [proxella.pro/skachat/macos](https://proxella.pro/skachat/macos)
+- 🌐 Сайт: **[proxella.pro](https://proxella.pro/#github)**
+- ⬇️ Скачать: **[proxella.pro/zagruzka](https://proxella.pro/zagruzka#github)** или из
+  [последнего релиза](https://github.com/Proxella/proxella-vpn/releases/latest) этого репозитория
+- 🍏 Mac: [proxella.pro/skachat/macos](https://proxella.pro/skachat/macos#github)
 - 🎁 Пробный период — сразу после установки, без карты и регистрации
 
 ## Скачать
 
-| Система | Файл | Для каких устройств |
-|---|---|---|
-| **Windows 7, 8, 8.1** | [ProxellaLegacySetup-1.4.119.exe](https://github.com/17x000011/proxella-vpn/releases/latest/download/ProxellaLegacySetup-1.4.119.exe) | отдельная сборка для старых Windows |
-| **Windows 10, 11** | [ProxellaSetup-0.5.101.exe](https://github.com/17x000011/proxella-vpn/releases/latest/download/ProxellaSetup-0.5.101.exe) | обычные компьютеры и ноутбуки |
-| **Android** | [Proxella-android-0.3.33-arm64.apk](https://github.com/17x000011/proxella-vpn/releases/latest/download/Proxella-android-0.3.33-arm64.apk) | большинство телефонов и Android TV |
-| **Android, старые телефоны** | [Proxella-android-0.3.33-arm.apk](https://github.com/17x000011/proxella-vpn/releases/latest/download/Proxella-android-0.3.33-arm.apk) | если пишет «несовместимо с CPU_ABI устройства» |
-| **macOS 12 Monterey и новее** | [Proxella-0.1.2.dmg](https://github.com/17x000011/proxella-vpn/releases/latest/download/Proxella-0.1.2.dmg) | все Mac с Apple Silicon (M1 и новее) и Intel примерно с 2015 года |
-| **macOS 11 Big Sur** | [Proxella-Legacy-0.1.2.dmg](https://github.com/17x000011/proxella-vpn/releases/latest/download/Proxella-Legacy-0.1.2.dmg) | Mac на Intel 2013–2014 годов и Mac, оставшиеся на Big Sur |
+| Система | Скачать | Зеркало на GitHub | Для каких устройств |
+|---|---|---|---|
+| **Windows 7, 8, 8.1** | [ProxellaLegacySetup-1.4.119.exe](https://proxella.pro/downloads/ProxellaLegacySetup-1.4.119.exe?utm_source=github&utm_medium=readme) | [скачать](https://github.com/Proxella/proxella-vpn/releases/latest/download/ProxellaLegacySetup-1.4.119.exe) | отдельная сборка для старых Windows |
+| **Windows 10, 11** | [ProxellaSetup-0.5.101.exe](https://proxella.pro/downloads/ProxellaSetup-0.5.101.exe?utm_source=github&utm_medium=readme) | [скачать](https://github.com/Proxella/proxella-vpn/releases/latest/download/ProxellaSetup-0.5.101.exe) | обычные компьютеры и ноутбуки |
+| **Android** | [Proxella-android-0.3.33-arm64.apk](https://proxella.pro/downloads/Proxella-android-0.3.33-arm64.apk?utm_source=github&utm_medium=readme) | [скачать](https://github.com/Proxella/proxella-vpn/releases/latest/download/Proxella-android-0.3.33-arm64.apk) | большинство телефонов и Android TV |
+| **Android, старые телефоны** | [Proxella-android-0.3.33-arm.apk](https://proxella.pro/downloads/Proxella-android-0.3.33-arm.apk?utm_source=github&utm_medium=readme) | [скачать](https://github.com/Proxella/proxella-vpn/releases/latest/download/Proxella-android-0.3.33-arm.apk) | если пишет «несовместимо с CPU_ABI устройства» |
+| **macOS 12 Monterey и новее** | [Proxella-0.1.2.dmg](https://proxella.pro/downloads/Proxella-0.1.2.dmg?utm_source=github&utm_medium=readme) | [скачать](https://github.com/Proxella/proxella-vpn/releases/latest/download/Proxella-0.1.2.dmg) | все Mac с Apple Silicon (M1 и новее) и Intel примерно с 2015 года |
+| **macOS 11 Big Sur** | [Proxella-Legacy-0.1.2.dmg](https://proxella.pro/downloads/Proxella-Legacy-0.1.2.dmg?utm_source=github&utm_medium=readme) | [скачать](https://github.com/Proxella/proxella-vpn/releases/latest/download/Proxella-Legacy-0.1.2.dmg) | Mac на Intel 2013–2014 годов и Mac, оставшиеся на Big Sur |
 
 После установки приложение само обновляется до свежей версии.
-Файлы те же, что на [proxella.pro](https://proxella.pro/zagruzka); для Mac — страница [proxella.pro/skachat/macos](https://proxella.pro/skachat/macos).
-Контрольные суммы — в конце страницы.
+Колонка «Скачать» ведёт на сайт [proxella.pro](https://proxella.pro/zagruzka#github), «Зеркало на GitHub» — на те же файлы
+в релизе этого репозитория: пригодится, если сайт не открывается. Контрольные суммы — в конце страницы.
 
 ## VPN для Windows 7: почему многие не запускаются
 
@@ -36,12 +36,12 @@ Microsoft прекратила поддержку Windows 7 в январе 2020
 - «Это приложение не поддерживает текущую версию Windows».
 
 У Proxella для Windows 7 и 8 своя сборка — **ProxellaLegacySetup**. Её не нужно искать отдельно:
-страница [proxella.pro/zagruzka](https://proxella.pro/zagruzka) сама определяет версию Windows и
+страница [proxella.pro/zagruzka](https://proxella.pro/zagruzka#github) сама определяет версию Windows и
 предлагает нужный файл.
 
 ## Как установить на Windows 7
 
-1. Скачайте [ProxellaLegacySetup-1.4.119.exe](https://github.com/17x000011/proxella-vpn/releases/latest/download/ProxellaLegacySetup-1.4.119.exe).
+1. Скачайте [ProxellaLegacySetup-1.4.119.exe](https://proxella.pro/downloads/ProxellaLegacySetup-1.4.119.exe?utm_source=github&utm_medium=readme).
 2. Браузер может написать, что файл «скачивают редко». Это не сообщение об угрозе: приложение
    новое и пока без цифровой подписи, поэтому такое предупреждение видят все. Нажмите «Сохранить».
 3. Запустите установщик. Если Windows спросит про неизвестного издателя — разрешите запуск.
@@ -70,21 +70,21 @@ Microsoft прекратила поддержку Windows 7 в январе 2020
 - **Пробный период:** 2 дня (на Windows 7 и 8 — сутки), без карты и регистрации.
   За подтверждение почты — ещё 3 дня.
 - **Оплата:** банковские карты РФ через ЮKassa, чек приходит на почту.
-- Актуальные цены — на [proxella.pro/tarify](https://proxella.pro/tarify).
+- Актуальные цены — на [proxella.pro/tarify](https://proxella.pro/tarify#github).
 
 ## Частые вопросы
 
 **Какой впн работает на виндовс 7?** Proxella: для Windows 7 и 8 у неё отдельная сборка —
-[ProxellaLegacySetup-1.4.119.exe](https://github.com/17x000011/proxella-vpn/releases/latest/download/ProxellaLegacySetup-1.4.119.exe).
+[ProxellaLegacySetup-1.4.119.exe](https://proxella.pro/downloads/ProxellaLegacySetup-1.4.119.exe?utm_source=github&utm_medium=readme).
 Пробный период — сутки, без карты и регистрации.
 
 **Есть ли впн для макбука?** Да. Для macOS 12 и новее —
-[Proxella-0.1.2.dmg](https://github.com/17x000011/proxella-vpn/releases/latest/download/Proxella-0.1.2.dmg),
-для macOS 11 Big Sur — [Proxella-Legacy-0.1.2.dmg](https://github.com/17x000011/proxella-vpn/releases/latest/download/Proxella-Legacy-0.1.2.dmg).
-Подробнее — на [proxella.pro/skachat/macos](https://proxella.pro/skachat/macos).
+[Proxella-0.1.2.dmg](https://proxella.pro/downloads/Proxella-0.1.2.dmg?utm_source=github&utm_medium=readme),
+для macOS 11 Big Sur — [Proxella-Legacy-0.1.2.dmg](https://proxella.pro/downloads/Proxella-Legacy-0.1.2.dmg?utm_source=github&utm_medium=readme).
+Подробнее — на [proxella.pro/skachat/macos](https://proxella.pro/skachat/macos#github).
 
-**Где скачать впн для пк?** На [proxella.pro/zagruzka](https://proxella.pro/zagruzka): страница сама определит
-версию Windows и предложит нужный файл. Здесь те же файлы — в [последнем релизе](https://github.com/17x000011/proxella-vpn/releases/latest).
+**Где скачать впн для пк?** На [proxella.pro/zagruzka](https://proxella.pro/zagruzka#github): страница сама определит
+версию Windows и предложит нужный файл. Здесь те же файлы — в [последнем релизе](https://github.com/Proxella/proxella-vpn/releases/latest).
 
 **Нужна ли регистрация?** Нет. Пробный период начинается сразу после установки. Почту можно
 указать позже — за это добавится 3 дня.
@@ -93,15 +93,15 @@ Microsoft прекратила поддержку Windows 7 в январе 2020
 одновременно, «Семейная» — 10: Windows, Android, Mac и Android TV на одном аккаунте.
 
 **Есть ли версия для iPhone и iPad?** На iPhone и iPad Proxella работает через бесплатное
-приложение INCY из App Store. Подключение — на [proxella.pro](https://proxella.pro).
+приложение INCY из App Store. Подключение — на [proxella.pro](https://proxella.pro/#github).
 
 **Работает ли на телевизоре?** На телевизорах с Android TV и Google TV — через приложение для
-Android. Инструкция — [proxella.pro/vpn-dlya-televizora](https://proxella.pro/vpn-dlya-televizora).
+Android. Инструкция — [proxella.pro/vpn-dlya-televizora](https://proxella.pro/vpn-dlya-televizora#github).
 
 **Безопасно ли скачивать отсюда?** Здесь лежат те же файлы, что раздаёт сайт. Сверить их можно по
 контрольным суммам ниже.
 
-**Куда писать, если не получилось?** На [proxella.pro/kontakty](https://proxella.pro/kontakty).
+**Куда писать, если не получилось?** На [proxella.pro/kontakty](https://proxella.pro/kontakty#github).
 
 ## Контрольные суммы (SHA-256)
 
@@ -120,4 +120,4 @@ b9d4e6a8c023f7c6fd29743ab233136e4bb30a13d29f5a3ff3b5b46b6384042c  Proxella-0.1.2
 ---
 
 Официальная страница для скачивания Proxella. Исходный код приложений закрыт.
-Сайт сервиса — [proxella.pro](https://proxella.pro).
+Сайт сервиса — [proxella.pro](https://proxella.pro/#github).
