@@ -74,6 +74,18 @@ Microsoft прекратила поддержку Windows 7 в январе 2020
 
 ## Частые вопросы
 
+**Какой впн работает на виндовс 7?** Proxella: для Windows 7 и 8 у неё отдельная сборка —
+[ProxellaLegacySetup-1.4.119.exe](https://github.com/17x000011/proxella-vpn/releases/latest/download/ProxellaLegacySetup-1.4.119.exe).
+Пробный период — сутки, без карты и регистрации.
+
+**Есть ли впн для макбука?** Да. Для macOS 12 и новее —
+[Proxella-0.1.2.dmg](https://github.com/17x000011/proxella-vpn/releases/latest/download/Proxella-0.1.2.dmg),
+для macOS 11 Big Sur — [Proxella-Legacy-0.1.2.dmg](https://github.com/17x000011/proxella-vpn/releases/latest/download/Proxella-Legacy-0.1.2.dmg).
+Подробнее — на [proxella.pro/skachat/macos](https://proxella.pro/skachat/macos).
+
+**Где скачать впн для пк?** На [proxella.pro/zagruzka](https://proxella.pro/zagruzka): страница сама определит
+версию Windows и предложит нужный файл. Здесь те же файлы — в [последнем релизе](https://github.com/17x000011/proxella-vpn/releases/latest).
+
 **Нужна ли регистрация?** Нет. Пробный период начинается сразу после установки. Почту можно
 указать позже — за это добавится 3 дня.
 
