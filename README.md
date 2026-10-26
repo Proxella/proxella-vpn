@@ -7,6 +7,7 @@ VPN-программы уже не поддерживаются.
 - 🌐 Сайт: **[proxella.pro](https://proxella.pro)**
 - ⬇️ Скачать: **[proxella.pro/zagruzka](https://proxella.pro/zagruzka)** или из
   [последнего релиза](https://github.com/17x000011/proxella-vpn/releases/latest) этого репозитория
+- 🍏 Mac: [proxella.pro/skachat/macos](https://proxella.pro/skachat/macos)
 - 🎁 Пробный период — сразу после установки, без карты и регистрации
 
 ## Скачать
@@ -21,7 +22,7 @@ VPN-программы уже не поддерживаются.
 | **macOS 11 Big Sur** | [Proxella-Legacy-0.1.2.dmg](https://github.com/17x000011/proxella-vpn/releases/latest/download/Proxella-Legacy-0.1.2.dmg) | Mac на Intel 2013–2014 годов и Mac, оставшиеся на Big Sur |
 
 После установки приложение само обновляется до свежей версии.
-Файлы для Windows и Android — те же, что на [proxella.pro](https://proxella.pro/zagruzka); приложение для Mac — новое.
+Файлы те же, что на [proxella.pro](https://proxella.pro/zagruzka); для Mac — страница [proxella.pro/skachat/macos](https://proxella.pro/skachat/macos).
 Контрольные суммы — в конце страницы.
 
 ## VPN для Windows 7: почему многие не запускаются
@@ -85,7 +86,7 @@ Microsoft прекратила поддержку Windows 7 в январе 2020
 **Работает ли на телевизоре?** На телевизорах с Android TV и Google TV — через приложение для
 Android. Инструкция — [proxella.pro/vpn-dlya-televizora](https://proxella.pro/vpn-dlya-televizora).
 
-**Безопасно ли скачивать отсюда?** Файлы для Windows и Android — те же, что раздаёт сайт. Сверить их можно по
+**Безопасно ли скачивать отсюда?** Здесь лежат те же файлы, что раздаёт сайт. Сверить их можно по
 контрольным суммам ниже.
 
 **Куда писать, если не получилось?** На [proxella.pro/kontakty](https://proxella.pro/kontakty).
