@@ -2,5 +2,5 @@
 1343c3ec529863ee92bd62d52147207440b506f602def2a79ce2da634accc327  ProxellaLegacySetup-1.4.119.exe
 278ddbd1a387b630f67910f2c53a8c8e77e06888fde87360153c0aea4b4aa014  Proxella-android-0.3.33-arm64.apk
 7ba2e3a10b0eea8565080211c07b4031c65ce890cef0666ae16ba063f19e746c  Proxella-android-0.3.33-arm.apk
-0c14cb0571d14c93563aba189e24defaa3db675690c10c6a8c8a00e113db443b  Proxella-0.1.6.pkg
-c832b6dbd2b006a045145dfee823de4d45d69c97562e8e5e4898c03b7f48a0f1  Proxella-Legacy-0.1.6.pkg
+9ba207ba6b10b04fdedefb30dcd7ba3d7b3118d72b4456deca2c940b9f880ccb  Proxella-0.1.7.pkg
+4b5ed1e9e0f966d7d35b01ad4c3b61facd8678c27ede252a8fdeba5cbc26efd6  Proxella-Legacy-0.1.7.pkg
