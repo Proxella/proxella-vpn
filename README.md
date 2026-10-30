@@ -18,8 +18,8 @@ VPN-программы уже не поддерживаются.
 | **Windows 10, 11** | [ProxellaSetup-0.5.101.exe](https://proxella.pro/downloads/ProxellaSetup-0.5.101.exe?utm_source=github&utm_medium=readme) | [скачать](https://github.com/Proxella/proxella-vpn/releases/latest/download/ProxellaSetup-0.5.101.exe) | обычные компьютеры и ноутбуки |
 | **Android** | [Proxella-android-0.3.33-arm64.apk](https://proxella.pro/downloads/Proxella-android-0.3.33-arm64.apk?utm_source=github&utm_medium=readme) | [скачать](https://github.com/Proxella/proxella-vpn/releases/latest/download/Proxella-android-0.3.33-arm64.apk) | большинство телефонов и Android TV |
 | **Android, старые телефоны** | [Proxella-android-0.3.33-arm.apk](https://proxella.pro/downloads/Proxella-android-0.3.33-arm.apk?utm_source=github&utm_medium=readme) | [скачать](https://github.com/Proxella/proxella-vpn/releases/latest/download/Proxella-android-0.3.33-arm.apk) | если пишет «несовместимо с CPU_ABI устройства» |
-| **macOS 12 Monterey и новее** | [Proxella-0.1.6.pkg](https://proxella.pro/downloads/Proxella-0.1.6.pkg?utm_source=github&utm_medium=readme) | [скачать](https://github.com/Proxella/proxella-vpn/releases/latest/download/Proxella-0.1.6.pkg) | все Mac с Apple Silicon (M1 и новее) и Intel примерно с 2015 года |
-| **macOS 11 Big Sur** | [Proxella-Legacy-0.1.6.pkg](https://proxella.pro/downloads/Proxella-Legacy-0.1.6.pkg?utm_source=github&utm_medium=readme) | [скачать](https://github.com/Proxella/proxella-vpn/releases/latest/download/Proxella-Legacy-0.1.6.pkg) | Mac на Intel 2013–2014 годов и Mac, оставшиеся на Big Sur |
+| **macOS 12 Monterey и новее** | [Proxella-0.1.7.pkg](https://proxella.pro/downloads/Proxella-0.1.7.pkg?utm_source=github&utm_medium=readme) | [скачать](https://github.com/Proxella/proxella-vpn/releases/latest/download/Proxella-0.1.7.pkg) | все Mac с Apple Silicon (M1 и новее) и Intel примерно с 2015 года |
+| **macOS 11 Big Sur** | [Proxella-Legacy-0.1.7.pkg](https://proxella.pro/downloads/Proxella-Legacy-0.1.7.pkg?utm_source=github&utm_medium=readme) | [скачать](https://github.com/Proxella/proxella-vpn/releases/latest/download/Proxella-Legacy-0.1.7.pkg) | Mac на Intel 2013–2014 годов и Mac, оставшиеся на Big Sur |
 
 После установки приложение само обновляется до свежей версии.
 Колонка «Скачать» ведёт на сайт [proxella.pro](https://proxella.pro/zagruzka#github), «Зеркало на GitHub» — на те же файлы
@@ -79,8 +79,8 @@ Microsoft прекратила поддержку Windows 7 в январе 2020
 Пробный период — сутки, без карты и регистрации.
 
 **Есть ли впн для макбука?** Да. Для macOS 12 и новее —
-[Proxella-0.1.6.pkg](https://proxella.pro/downloads/Proxella-0.1.6.pkg?utm_source=github&utm_medium=readme),
-для macOS 11 Big Sur — [Proxella-Legacy-0.1.6.pkg](https://proxella.pro/downloads/Proxella-Legacy-0.1.6.pkg?utm_source=github&utm_medium=readme).
+[Proxella-0.1.7.pkg](https://proxella.pro/downloads/Proxella-0.1.7.pkg?utm_source=github&utm_medium=readme),
+для macOS 11 Big Sur — [Proxella-Legacy-0.1.7.pkg](https://proxella.pro/downloads/Proxella-Legacy-0.1.7.pkg?utm_source=github&utm_medium=readme).
 Подробнее — на [proxella.pro/skachat/macos](https://proxella.pro/skachat/macos#github).
 
 **Где скачать впн для пк?** На [proxella.pro/zagruzka](https://proxella.pro/zagruzka#github): страница сама определит
@@ -110,12 +110,12 @@ Android. Инструкция — [proxella.pro/vpn-dlya-televizora](https://pro
 134966d77e94a678f1e2d055cae9249d11a7388df3661c0d3a28b98477808a83  ProxellaSetup-0.5.101.exe
 278ddbd1a387b630f67910f2c53a8c8e77e06888fde87360153c0aea4b4aa014  Proxella-android-0.3.33-arm64.apk
 7ba2e3a10b0eea8565080211c07b4031c65ce890cef0666ae16ba063f19e746c  Proxella-android-0.3.33-arm.apk
-0c14cb0571d14c93563aba189e24defaa3db675690c10c6a8c8a00e113db443b  Proxella-0.1.6.pkg
-c832b6dbd2b006a045145dfee823de4d45d69c97562e8e5e4898c03b7f48a0f1  Proxella-Legacy-0.1.6.pkg
+9ba207ba6b10b04fdedefb30dcd7ba3d7b3118d72b4456deca2c940b9f880ccb  Proxella-0.1.7.pkg
+4b5ed1e9e0f966d7d35b01ad4c3b61facd8678c27ede252a8fdeba5cbc26efd6  Proxella-Legacy-0.1.7.pkg
 ```
 
 Проверить на Windows: `certutil -hashfile ProxellaLegacySetup-1.4.119.exe SHA256`.
-На Mac: `shasum -a 256 Proxella-0.1.6.pkg`.
+На Mac: `shasum -a 256 Proxella-0.1.7.pkg`.
 
 ---
 
